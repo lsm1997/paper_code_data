@@ -1,5 +1,5 @@
 # paper_code_data
-paper_data is the data used in our study ,Please put it into the "origin_data" folder when in use.
+paper_data.rar is the data used in our study ,Please put it into the "origin_data" folder when in use.
 
 code.zip includes all codes used in our study.
 The steps for use are as follows:
